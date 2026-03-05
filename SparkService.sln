@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkService", "SparkService\SparkService.csproj", "{275EFB6E-0D0E-B3FB-D352-A6D9958B8BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizeNET", "AuthorizeNET\AuthorizeNET.csproj", "{E694EE9C-896F-3600-A3AA-C61AF9E9D766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkMQService", "SparkMQService\SparkMQService.csproj", "{9ADF4E41-E6E3-BF67-3556-D2FE3606036D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spark", "SparkApp\Spark.csproj", "{740C19A8-3847-16C5-0F78-15626250208F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275EFB6E-0D0E-B3FB-D352-A6D9958B8BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275EFB6E-0D0E-B3FB-D352-A6D9958B8BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275EFB6E-0D0E-B3FB-D352-A6D9958B8BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275EFB6E-0D0E-B3FB-D352-A6D9958B8BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E694EE9C-896F-3600-A3AA-C61AF9E9D766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E694EE9C-896F-3600-A3AA-C61AF9E9D766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E694EE9C-896F-3600-A3AA-C61AF9E9D766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E694EE9C-896F-3600-A3AA-C61AF9E9D766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ADF4E41-E6E3-BF67-3556-D2FE3606036D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADF4E41-E6E3-BF67-3556-D2FE3606036D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADF4E41-E6E3-BF67-3556-D2FE3606036D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADF4E41-E6E3-BF67-3556-D2FE3606036D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740C19A8-3847-16C5-0F78-15626250208F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740C19A8-3847-16C5-0F78-15626250208F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740C19A8-3847-16C5-0F78-15626250208F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740C19A8-3847-16C5-0F78-15626250208F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28208568-AE4E-4C7C-BAC6-209F76A10454}
+	EndGlobalSection
+EndGlobal
